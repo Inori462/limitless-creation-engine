@@ -72,7 +72,7 @@ export function Footer() {
       <div className="mx-auto grid max-w-7xl gap-8 px-4 py-12 md:grid-cols-4">
         <div className="md:col-span-2">
           <Logo light />
-          <p className="mt-3 max-w-sm text-sm opacity-80">Rooted in the Earth, Growing the Future. A hackathon prototype for the PCCOE International Grand Challenge 2026 — AI for Climate Change.</p>
+          <p className="mt-3 max-w-sm text-sm opacity-80">Rooted in the Earth, Growing the Future.</p>
         </div>
         <div className="space-y-2 text-sm">
           <h4 className="font-semibold text-gold">Platform</h4>
@@ -89,7 +89,7 @@ export function Footer() {
         </div>
       </div>
       <div className="border-t border-forest-foreground/15 py-4 text-center text-xs opacity-70">
-        © 2026 BHUMIJA prototype. All figures are sample data. No real investments are offered.
+        © 2026 BHUMIJA prototype. 
       </div>
     </footer>
   );
