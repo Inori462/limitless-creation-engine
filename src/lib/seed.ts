@@ -83,3 +83,4 @@ export function climateSeries(state: string) {
     };
   });
 }
+export const LIFECYCLE = ["Business Creation", "Digital Ownership", "Cultivation", "Monitoring", "Harvest", "Sale", "Revenue", "Profit/Loss"];
